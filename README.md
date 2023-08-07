@@ -8,5 +8,15 @@ Each player takes a turn. On a player’s turn, they choose to place an “S” 
 If the newly placed letter completes an “SOS” sequence vertically, diagonally or horizontally, that player scores one point and gets another turn4 (until placing a symbol does not complete a sequence, in which case it becomes the other player’s turn).
 Play continues until there are no empty cells left, the winner is the player with the highest score. If the scores are the same, then the game is a draw.
 
-![GamePlay](https://github.com/HackerWithDrip/SOS-Game/assets/68540614/e587489e-93c6-4325-9d10-84188b2a6db6)
+#Overview of SOS
 
+
+![GamePlay](https://github.com/HackerWithDrip/SOS-Game/assets/68540614/1b4fe1b5-b4a5-469b-a455-efca7f3b3720)
+
+##Installation instructions to your Android device
+1. Go to the folder "app > build > outputs > apk > debug
+2. send the app-debug.apk to your devices (using a cable)
+3. locate the .apk file on your device
+4. open or click on the .apk file and allow installation
+
+   **Note: You need to give permission to install "unknown" apps on your device**
