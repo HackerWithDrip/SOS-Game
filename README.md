@@ -8,4 +8,5 @@ Each player takes a turn. On a player’s turn, they choose to place an “S” 
 If the newly placed letter completes an “SOS” sequence vertically, diagonally or horizontally, that player scores one point and gets another turn4 (until placing a symbol does not complete a sequence, in which case it becomes the other player’s turn).
 Play continues until there are no empty cells left, the winner is the player with the highest score. If the scores are the same, then the game is a draw.
 
-![GamePlay](https://github.com/HackerWithDrip/SOS-Game/assets/68540614/321e11ce-b022-4983-b5bc-95d5f4e96586)
+![GamePlay](https://github.com/HackerWithDrip/SOS-Game/assets/68540614/44af8719-b530-4280-97c4-966c15fbc3be)
+
